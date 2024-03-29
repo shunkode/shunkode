@@ -20,7 +20,7 @@ mail: shun.kode84@gmail.com
 </ul>
 
 <h3 align="left">Research:</h3>
-The abstract of my research is <a href= "xxxx.html" target="_blank" >on the following page</a>
+The abstract of my research is <a href= "https://github.com/shunkode/About-Research" target="_blank" >on the following page</a>
 <!--
 **shunkode/shunkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
