@@ -18,6 +18,9 @@ mail: shun.kode84@gmail.com
 <li> Applied Information Technology Engineer Examination（応用情報技術者試験）</li>
 <li> Fundamental Information Technology Engineer Examination（基本情報技術者試験）</li>
 </ul>
+
+<h3 align="left">Research:</h3>
+The abstract of my research is <a href= "xxxx.html" target="_blank" >on the following page</a>
 <!--
 **shunkode/shunkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
