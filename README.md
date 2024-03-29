@@ -1,6 +1,6 @@
 ### Hi👋, I'm Shunsuke KODERA
 
-<h3 align="center">A Master's degree at Department of Agriculture ; Graduate School of Agriculture</h3>
+<h3 align="center">A Master's degree at Department of Agriculture ; Graduate School of Agriculture ; belonging to WaterResourcesPlanningLab. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
